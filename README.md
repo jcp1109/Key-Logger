@@ -1,4 +1,4 @@
-# Key-Logger
+# Key Logger
 
 A keylogger, short for "keystroke logger," is a type of software or hardware device designed to record and monitor the keystrokes typed on a computer or mobile device keyboard. It captures the sequence of keys pressed by a user and can log this information for various purposes. Keyloggers can come in both legitimate and malicious forms, and they have applications in a range of contexts:
 
