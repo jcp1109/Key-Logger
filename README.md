@@ -1,6 +1,10 @@
 # Key Logger
 
-A keylogger, short for "keystroke logger," is a type of software or hardware device designed to record and monitor the keystrokes typed on a computer or mobile device keyboard. It captures the sequence of keys pressed by a user and can log this information for various purposes. Keyloggers can come in both legitimate and malicious forms, and they have applications in a range of contexts:
+A keylogger, short for "keystroke logger," is a type of software or hardware device designed to record and monitor the keystrokes typed on a computer or mobile device keyboard. It captures the sequence of keys pressed by a user and can log this information for various purposes. 
+
+For this purpose, the keylogger.py python file collects keystrokes and logs it into the keyfile.txt file.
+
+Keyloggers can come in both legitimate and malicious forms, and they have applications in a range of contexts:
 
 1. **Legitimate Uses:**
    - **System Troubleshooting:** Keyloggers can be used for diagnosing technical issues or errors in software applications by recording user interactions.
